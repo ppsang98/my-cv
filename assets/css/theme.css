@@ -394,6 +394,7 @@ header .copyright {
 .mobile-header .logo img {
   max-height: 40px;
   max-width: 40px;
+  border-radius: 50%;
 }
 .mobile-header .site-title {
   vertical-align: middle;
